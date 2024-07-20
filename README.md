@@ -23,7 +23,7 @@ I dedicate time to learning new technologies and best practices to continually i
 
 ## Contact
 
-Feel free to reach out to me via [LinkedIn](https://www.linkedin.com) or [GitHub](https://github.com).
+Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/hoang-tam-dev/) or [GitHub](https://github.com/nhtam1989/about-me).
 
 ---
 
